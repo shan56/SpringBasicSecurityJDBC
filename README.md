@@ -1,3 +1,3 @@
-#Basic Spring Security
-###with H2 database 
-###with JDBC authentication
+Basic Spring Security
+with H2 database 
+with JDBC authentication
